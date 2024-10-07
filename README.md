@@ -1,6 +1,10 @@
 PDF.io Clone
 
-This is a simplified clone of PDF.io, a web-based tool designed to handle various PDF operations. With a minimalistic and user-friendly interface, this project allows users to upload, process, and download PDFs effortlessly. The initial version includes basic functionalities like PDF file upload and conversion to text.
+      This is a simplified clone of PDF.io, a web-based tool designed to handle various PDF operations. 
+      
+      With a minimalistic and user-friendly interface, this project allows users to upload, process, and download PDFs effortlessly. 
+      
+      The initial version includes basic functionalities like PDF file upload and conversion to text.
 
 🚀 Features:
 
