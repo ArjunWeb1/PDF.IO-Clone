@@ -1,30 +1,29 @@
-PDF.io Clone
+PDF.io Clone 🔗
 
       This is a simplified clone of PDF.io, a web-based tool designed to handle various PDF operations. 
       
       With a minimalistic and user-friendly interface, this project allows users to upload, process, and download PDFs effortlessly. 
       
       The initial version includes basic functionalities like PDF file upload and conversion to text.
-      
-     🚀 **[Live Demo](https://pdf-io-clone-arjunweb1s-projects.vercel.app/)**
 
-🚀 Features:
+🚀 Live Demo
+
+Features ✨
 
       📄 Upload PDF Files: Seamless file upload directly from your device.
       
-      ✍️ PDF to Text Conversion: Extract and display the text content from any PDF document.
+      🔍 PDF to Text Conversion: Extract and display the text content from any PDF document.
       
-      🎨 Simple and Clean UI: A straightforward interface that focuses on ease of use.
-      
+      💻 Simple and Clean UI: A straightforward interface that focuses on ease of use.
 
-🔧 Future Enhancements:
+Future Enhancements 🛠️
 
-      🔗 PDF Merging
+      🔗 Merge PDFs
       
-      📉 File Compression
+      🔧 File Compression
       
       🖼️ PDF to Image Conversion
       
       📝 PDF Annotations
-  
+
 This project serves as a foundation for more advanced PDF handling functionalities, providing a modular and extensible structure for future development.
